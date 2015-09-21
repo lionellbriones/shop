@@ -1,0 +1,25 @@
+{
+  "name": "Shop Application",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lionellbriones/shop",
+  "authors": [
+    "lionellbriones <llenoil@gmail.com>"
+  ],
+  "description": "Shop Application",
+  "keywords": [
+    "shop"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
